@@ -2,6 +2,8 @@
 
 An interactive, space-themed 3D developer portfolio showcasing full-stack projects, core technical skills, and software engineering experience. Built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, **Spline 3D**, and **GSAP**.
 
+🌐 **Live Website:** [https://3d-portfolio-ten-pink.vercel.app/](https://3d-portfolio-ten-pink.vercel.app/)
+
 ![Portfolio Preview](/assets/projects-screenshots/portfolio/landing.png)
 
 ---

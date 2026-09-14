@@ -416,7 +416,7 @@ const projects: Project[] = [
         PROJECT_SKILLS.websockets,
       ],
     },
-    live: "https://portfolio-piyush-funde.vercel.app",
+    live: "https://3d-portfolio-ten-pink.vercel.app/",
     github: "https://github.com/piyushFunde/3d-portfolio",
     get content() {
       return (
@@ -428,7 +428,7 @@ const projects: Project[] = [
             A developer portfolio packed with an interactive 3D Spline keyboard skill showcase, smooth GSAP and Framer Motion animations, custom theme toggles, and optional real-time visitor features.
           </TypographyP>
           <ProjectsLinks
-            live="https://portfolio-piyush-funde.vercel.app"
+            live="https://3d-portfolio-ten-pink.vercel.app/"
             repo="https://github.com/piyushFunde/3d-portfolio"
           />
           <TypographyH3 className="my-4 mt-8">Highlights</TypographyH3>
