@@ -1,0 +1,52 @@
+.imageContainer {
+  display: none;
+}
+
+@media only screen and (min-width: 1000px) {
+  .imageContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 450px;
+    position: relative;
+
+    img {
+      object-fit: cover;
+    }
+  }
+
+  .textPreview {
+    padding: 2rem;
+  }
+
+  .textPreviewContent {
+    font-family: 'Courier New', 'Consolas', 'SF Mono', monospace;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: hsl(var(--muted-foreground));
+    letter-spacing: 0.01em;
+    text-align: center;
+    padding: 1.5rem 2rem;
+    border: 1px solid hsl(var(--border));
+    border-radius: calc(var(--radius) + 2px);
+    background: hsl(var(--muted) / 0.4);
+    backdrop-filter: blur(8px);
+    max-width: 360px;
+    word-break: break-word;
+
+    /* Subtle terminal cursor blink on the line */
+    &::after {
+      content: '▌';
+      display: inline-block;
+      margin-left: 4px;
+      color: hsl(var(--primary));
+      animation: cursor-blink 1s step-end infinite;
+    }
+  }
+
+  @keyframes cursor-blink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0; }
+  }
+}
