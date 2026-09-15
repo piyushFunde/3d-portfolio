@@ -4,7 +4,6 @@ An interactive, space-themed 3D developer portfolio showcasing full-stack projec
 
 🌐 **Live Website:** [https://3d-portfolio-ten-pink.vercel.app/](https://3d-portfolio-ten-pink.vercel.app/)
 
-![Portfolio Preview](/assets/projects-screenshots/portfolio/landing.png)
 
 ---
 
