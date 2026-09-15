@@ -316,8 +316,8 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 2,
-    startDate: "2026",
-    endDate: "Present",
+    startDate: "March 2026",
+    endDate: "May 2026",
     title: "Full-Stack Developer",
     company: "Self-Employed",
     description: [
