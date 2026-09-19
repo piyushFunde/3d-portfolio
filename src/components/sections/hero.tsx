@@ -78,8 +78,7 @@ const HeroSection = () => {
 
               <div className="mt-2 flex flex-col gap-3 w-fit">
                 <Link
-                  href="/Piyush_Funde_Resume.pdf"
-                  target="_blank"
+                  href="/resume"
                   className="flex-1"
                 >
                   <BoxReveal delay={2} width="100%">
