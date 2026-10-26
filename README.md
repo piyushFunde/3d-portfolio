@@ -1,8 +1,8 @@
-# 🌌 Piyush Funde — 3D Personal Developer Portfolio
+# Piyush Funde — 3D Personal Developer Portfolio
 
 An interactive, space-themed 3D developer portfolio showcasing full-stack projects, core technical skills, and software engineering experience. Built with **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, **Spline 3D**, and **GSAP**.
 
-🌐 **Live Website:** [https://3d-portfolio-ten-pink.vercel.app/](https://3d-portfolio-ten-pink.vercel.app/)
+**Live Website:** [https://piyushfunde-dev.vercel.app/](https://piyushfunde-dev.vercel.app/)
 
 ---
 ## System Architecture
@@ -98,7 +98,7 @@ class node_visitor toneIndigo
 
 ```
 
-## ✨ Features
+##  Features
 
 - **Interactive 3D Skill Keyboard** — Custom 3D mechanical keyboard built with Spline where keycaps map directly to technical skills and detailed descriptions.
 - **Featured Full-Stack Projects** — Interactive showcase cards with smooth modal previews for production systems, AI tools, and enterprise cloud applications.
@@ -109,7 +109,7 @@ class node_visitor toneIndigo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technologies & Tools |
 |---|---|
@@ -122,7 +122,7 @@ class node_visitor toneIndigo
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 1. **EVA CRM System** — Production CRM system built for Eva Groups with Spring Boot, React, MySQL, JWT, Apache POI data ingestion, and WebSockets.
 2. **Visual Pipeline Engine** — Full-stack visual workflow engine featuring DAG validation, node-based pipeline simulation, Node.js/Express, MongoDB, and Docker.
@@ -133,7 +133,7 @@ class node_visitor toneIndigo
 
 ---
 
-## 💻 Local Development Setup
+##  Local Development Setup
 
 ### Prerequisites
 
@@ -173,6 +173,6 @@ class node_visitor toneIndigo
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
