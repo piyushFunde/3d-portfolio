@@ -172,7 +172,3 @@ class node_visitor toneIndigo
 5. Open **[http://localhost:3000](http://localhost:3000)** in your browser to view the application.
 
 ---
-
-##  License
-
-This project is licensed under the MIT License.
